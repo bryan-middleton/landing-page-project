@@ -37,6 +37,11 @@ body {
     text-decoration: none;
 }
 
+.links a:hover {
+    color: aquamarine;
+    font-size: 20px;
+}
+
 .header, .hero-container, .footer {
     background-color: #1F2937;
     color: #F9FAF8;
