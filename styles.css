@@ -4,7 +4,7 @@ body {
     flex-direction: column;
     justify-content: center;
     
-    margin: 0;
+    margin: 0px 100px;
     min-height: 100vh;
 }
 
@@ -126,6 +126,7 @@ body {
     flex-shrink: 0;
     align-items: center;
     justify-content: center;
+    font-weight: lighter;
 }
 
 .content {
@@ -165,7 +166,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 32px 64px;
-    margin: 0px 300px 32px 300px;
+    margin: 0px 280px 32px 280px;
     border-radius: 5px;
 }
 
